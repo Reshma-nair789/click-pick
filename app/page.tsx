@@ -5,11 +5,13 @@ import HomePage from "./Components/Homepage";
 
 export default function Home() {
   return (
-    <div>
-      <CartProvider>
-        <Navbar />
-        <HomePage />
-      </CartProvider>
-    </div>
+    // <div>
+    //   <CartProvider>
+    //     <Navbar />
+    //     <HomePage />
+    //   </CartProvider>
+
+    <div> Testing Github </div>
+    // </div>
   );
 }
